@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(255,255,201);
+}
+h1{
+  background-color: rgb(244, 160, 191);
+color: rgb(255,255,201);
+height: 2.5em;
+padding-top: 1.25em;
+padding-left: 1em;
+}
+h2{
+color: rgb(244, 160, 191);
+}
