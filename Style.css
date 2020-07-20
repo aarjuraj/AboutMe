@@ -1,7 +1,8 @@
 body{
   background-color: rgb(255,255,201);
+  font-family: serif , sans-serif;
 }
-h1{
+h1 {
   background-color: rgb(244, 160, 191);
 color: rgb(255,255,201);
 height: 2.5em;
@@ -10,4 +11,20 @@ padding-left: 1em;
 }
 h2{
 color: rgb(244, 160, 191);
+}
+p{
+  color: rgb(244, 160, 191);
+  border-style: dashed;
+  border-color: rgb(180,222,192);
+}
+h3{
+color: rgb(255,255,201);
+background-color: rgb(244, 160, 191);
+height: 1.5em;
+padding-top: .60em;
+padding-left: 1em;
+}
+ul,ol{
+    border-style: solid;
+    border-color: rgb(180,222,192);
 }
